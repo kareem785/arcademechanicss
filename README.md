@@ -13,7 +13,8 @@ lopen animatie
 
 movement script en platforms
 
-![image](https://github.com/user-attachments/assets/101caf51-6fb4-4d31-a094-c32a9da954c8)
+
+![535665](https://github.com/user-attachments/assets/3b819354-99d4-4b2f-b268-e0a872bfe7cb)
 
 ![Screenshot 2025-04-15 175806](https://github.com/user-attachments/assets/d596dc92-c50c-4690-971b-02edceba2dcb)
 
