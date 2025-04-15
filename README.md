@@ -11,11 +11,13 @@ lopen animatie
 
 
 
-movement scriopt
+movement script en platforms
 
+![image](https://github.com/user-attachments/assets/101caf51-6fb4-4d31-a094-c32a9da954c8)
 
+![Screenshot 2025-04-15 175806](https://github.com/user-attachments/assets/d596dc92-c50c-4690-971b-02edceba2dcb)
 
-
+platforms en movement
 
 
 ![535665](https://github.com/user-attachments/assets/652ccce2-dd3b-422c-b639-541deee60c65)
