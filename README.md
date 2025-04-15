@@ -2,6 +2,7 @@
 
 jump mechanic
 https://github.com/kareem785/arcademechanicss/blob/main/Assets/scripts/Playermovement.cs
+jump 
 
 ![535665](https://github.com/user-attachments/assets/85174e62-698a-4037-87fe-93af44ba8736)
 animaties
