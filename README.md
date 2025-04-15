@@ -11,6 +11,12 @@ lopen animatie
 
 
 
+movement scriopt
+
+
+
+
+
 
 ![535665](https://github.com/user-attachments/assets/652ccce2-dd3b-422c-b639-541deee60c65)
 
