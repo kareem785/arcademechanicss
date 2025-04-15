@@ -211,3 +211,6 @@ public class PickupScript : MonoBehaviour
 }
 
 pickup script
+![535665](https://github.com/user-attachments/assets/d50d2d4c-69f0-4618-8c5e-b16583b8ec14)
+
+
