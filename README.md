@@ -7,3 +7,11 @@ jump
 ![535665](https://github.com/user-attachments/assets/85174e62-698a-4037-87fe-93af44ba8736)
 animaties
 lopen animatie
+
+
+
+
+
+![535665](https://github.com/user-attachments/assets/652ccce2-dd3b-422c-b639-541deee60c65)
+
+pickup script
