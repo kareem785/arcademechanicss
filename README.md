@@ -217,3 +217,7 @@ pickup script
 enemy kill en ik kill
 ![5356657](https://github.com/user-attachments/assets/85042e35-2ff9-4b3a-b80f-6f2eea719f53)
 
+
+
+enemy gaat dood als ik projectyle stuur, en vice versa
+
