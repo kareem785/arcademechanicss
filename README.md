@@ -214,3 +214,6 @@ pickup script
 ![535665](https://github.com/user-attachments/assets/d50d2d4c-69f0-4618-8c5e-b16583b8ec14)
 
 
+enemy kill en ik kill
+![5356657](https://github.com/user-attachments/assets/85042e35-2ff9-4b3a-b80f-6f2eea719f53)
+
